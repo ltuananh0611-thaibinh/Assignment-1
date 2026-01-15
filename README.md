@@ -1,4 +1,4 @@
-# Assignment-1
+
 [ex2_greeting.py](https://github.com/user-attachments/files/24631670/ex2_greeting.py)
 [ex3_circle.py](https://github.com/user-attachments/files/24631672/ex3_circle.py)
 [ex4-rectangle.py](https://github.com/user-attachments/files/24631676/ex4-rectangle.py)
